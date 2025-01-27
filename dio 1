@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Primjer HTML5 dokumenta koji uključuje podršku za dijakritičke znakove, optimizaciju za mobilne uređaje i meta informacije.">
+    <meta name="keywords" content="HTML5, meta oznake, dijakritički znakovi, optimizacija za mobilne uređaje, programiranje">
+    <meta name="author" content="Vaše ime">
+    <title>HTML5 Struktura Primjer</title>
+</head>
+<body>
+    <header>
+        <h1>British Antartic Survey</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Karijere u BAS-u</h2>
+            <p>British Antarctic Survey omogućuje vodeća svjetska interdisciplinarna istraživanja u polarnim regijama. Zapošljavamo širok raspon kvalificiranog znanstvenog, operativnog i pomoćnog osoblja sa sjedištem u Cambridgeu, Antarktiku, na brodovima i zrakoplovima, kao i na Arktiku. Zajedno radimo na pružanju istraživanja koja koriste polarne regije kako bismo unaprijedili naše razumijevanje Zemlje kao održivog planeta. Prihvaćamo različitost i jednakost mogućnosti te smo predani izgradnji uključivih i raznolikih timova koji predstavljaju sva iskustva, sa što je moguće širim rasponom perspektiva.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Vaše ime. Sva prava pridržana.</p>
+        <a href="https://github.com/vibos12/projekt/new/main" target="_blank">LINK</a>
+    </footer>
+</body>
+</html>
